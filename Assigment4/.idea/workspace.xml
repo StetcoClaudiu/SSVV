@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bbebd923-2106-416c-a9f7-47beff96aeac" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/.idea/Lab3Maven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/untitled/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/untitled/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/untitled/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/untitled/src/main/java/ssvv/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment3/Lab3Maven/untitled/src/test/java/ssvv/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Assigment4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/.idea/externalDependencies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/DataInceput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/Note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/Note.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/Studenti.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/Studenti.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/Teme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/Teme.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/a.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/eu.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/fisiere/la.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/app/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/curent/Curent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/domain/Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/domain/Tema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/AbstractCrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/AbstractFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/AbstractXMLRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/CrudRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/FileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/HasID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/NotaFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/NotaXMLRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/StudentFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/StudentXMLRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/TemaFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/repository/TemaXMLRepo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/validation/NotaValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/validation/StudentValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/validation/TemaValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/validation/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/validation/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/main/java/view/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab4/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/8.5/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/8.5/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/8.5/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/8.5/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/8.5/dependencies-accessors/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/8.5/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/8.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/8.5/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/serenity.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/src/test/java/org/example/features/search/SearchByKeywordStory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/src/test/java/org/example/features/search/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/src/test/java/org/example/pages/DictionaryPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/src/test/java/org/example/steps/serenity/EndUserSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigment5/Assigment5/src/test/resources/features/search/narrative.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChromeSetup.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Google_Chrome_(64bit)_v114.0.5735.199.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../chromedriver_win32.zip" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2fGWt4QXtWvNIeQ3xbEVESZAGc3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Claudiu/Documents/GitHub/SSVV/Assigment5/Assigment5",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Claudiu\Documents\GitHub\SSVV\Assigment4\LAb4\src\test\java\org\example" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbebd923-2106-416c-a9f7-47beff96aeac" name="Changes" comment="" />
+      <created>1713428106772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713428106772</updated>
+      <workItem from="1713428108009" duration="17000" />
+      <workItem from="1714035527624" duration="252000" />
+      <workItem from="1714035854663" duration="63000" />
+      <workItem from="1714067250676" duration="504000" />
+      <workItem from="1714067773448" duration="14000" />
+      <workItem from="1714114995972" duration="1228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

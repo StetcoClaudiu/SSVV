@@ -1,0 +1,138 @@
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 333
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 333
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 333
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 333
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 333
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 333
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 333
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 333
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 333
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
+
+Tema: 222
+Nota: 8.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: feedback
+
+Tema: 222
+Nota: 5.5
+Predata in saptamana: 2
+Deadline: 1
+Feedback: feedback
+
+Tema: 222
+Nota: 5.5
+Predata in saptamana: 2
+Deadline: 1
+Feedback: feedback
+
+Tema: 222
+Nota: 10.0
+Predata in saptamana: 1
+Deadline: 1
+Feedback: bine
